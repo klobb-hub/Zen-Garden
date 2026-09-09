@@ -107,16 +107,3 @@ footer {
 footer a {
   margin: 0 10px;
 }
-
-/* Mobil */
-@media (max-width: 700px) {
-  .intro,
-  .main,
-  .sidebar .wrapper {
-    padding: 20px;
-  }
-
-  h1 {
-    font-size: 32px;
-  }
-}
